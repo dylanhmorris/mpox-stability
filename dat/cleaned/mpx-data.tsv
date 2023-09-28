@@ -1,0 +1,965 @@
+titer_id	condition	timepoint	replicate	plaque_count	strain	fold_dilution	log10_dilution	surface	temperature	relative_humidity_pct	medium	medium_state	concentration_pct	chlorine_concentration_ppm	well_volume_ml	intercept_condition	timeseries_id
+0	Blood_liquid_2022	0.0	1	1	2022	1000	-3.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+1	Blood_liquid_2022	0.0	2	2	2022	1000	-3.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+2	Blood_liquid_2022	0.0	3	13	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+3	Blood_liquid_2022	1.0	1	7	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+4	Blood_liquid_2022	1.0	2	3	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+5	Blood_liquid_2022	1.0	3	10	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+6	Blood_liquid_2022	3.0	1	4	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+7	Blood_liquid_2022	3.0	2	6	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+8	Blood_liquid_2022	3.0	3	2	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+9	Blood_liquid_2022	5.0	1	20	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+10	Blood_liquid_2022	5.0	2	2	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+11	Blood_liquid_2022	5.0	3	2	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+12	Blood_liquid_2022	7.0	1	5	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+13	Blood_liquid_2022	7.0	2	2	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+14	Blood_liquid_2022	7.0	3	11	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+15	Blood_liquid_2022	10.0	1	4	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+16	Blood_liquid_2022	10.0	2	12	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+17	Blood_liquid_2022	10.0	3	2	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+18	Blood_liquid_2022	15.0	1	13	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+19	Blood_liquid_2022	15.0	2	7	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+20	Blood_liquid_2022	15.0	3	24	2022	10	-1.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+21	Blood_liquid_2022	20.0	1	23	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_1
+22	Blood_liquid_2022	20.0	2	25	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_2
+23	Blood_liquid_2022	20.0	3	22	2022	100	-2.0				Blood	liquid		0.0	0.25	Blood_liquid_2022	Blood_liquid_2022_3
+24	Blood_surface_2022	0.0	1	15	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_0.0
+25	Blood_surface_2022	0.0	2	1	2022	1000	-3.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_0.0
+26	Blood_surface_2022	0.0	3	2	2022	1000	-3.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_0.0
+27	Blood_surface_2022	1.0	1	25	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_1.0
+28	Blood_surface_2022	1.0	2	1	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_1.0
+29	Blood_surface_2022	1.0	3	15	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_1.0
+30	Blood_surface_2022	3.0	1	4	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_3.0
+31	Blood_surface_2022	3.0	2	4	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_3.0
+32	Blood_surface_2022	3.0	3	3	2022	1	0.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_3.0
+33	Blood_surface_2022	5.0	1	1	2022	1	0.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_5.0
+34	Blood_surface_2022	5.0	2	1	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_5.0
+35	Blood_surface_2022	5.0	3	4	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_5.0
+36	Blood_surface_2022	7.0	1	12	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_7.0
+37	Blood_surface_2022	7.0	2	5	2022	1	0.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_7.0
+38	Blood_surface_2022	7.0	3	9	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_7.0
+39	Blood_surface_2022	10.0	1	4	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_10.0
+40	Blood_surface_2022	10.0	2	8	2022	10	-1.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_10.0
+41	Blood_surface_2022	10.0	3	8	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_10.0
+42	Blood_surface_2022	15.0	1	4	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_15.0
+43	Blood_surface_2022	15.0	2	6	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_15.0
+44	Blood_surface_2022	15.0	3	2	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_15.0
+45	Blood_surface_2022	20.0	1	4	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_1_20.0
+46	Blood_surface_2022	20.0	2	7	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_2_20.0
+47	Blood_surface_2022	20.0	3	9	2022	100	-2.0	polypropylene_plastic			Blood	surface		0.0	0.25	Blood_surface_2022	Blood_surface_2022_3_20.0
+48	CC_21-23°C/40%_2022	0.0	1	61	2022	100	-2.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_0.0
+49	CC_21-23°C/40%_2022	0.0	2	17	2022	1000	-3.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_0.0
+50	CC_21-23°C/40%_2022	0.0	3	10	2022	1000	-3.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_0.0
+51	CC_21-23°C/40%_2022	1.0	1	4	2022	100	-2.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_1.0
+52	CC_21-23°C/40%_2022	1.0	2	7	2022	100	-2.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_1.0
+53	CC_21-23°C/40%_2022	1.0	3	6	2022	100	-2.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_1.0
+54	CC_21-23°C/40%_2022	3.0	1	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_3.0
+55	CC_21-23°C/40%_2022	3.0	2	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_3.0
+56	CC_21-23°C/40%_2022	3.0	3	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_3.0
+57	CC_21-23°C/40%_2022	5.0	1	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_5.0
+58	CC_21-23°C/40%_2022	5.0	2	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_5.0
+59	CC_21-23°C/40%_2022	5.0	3	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_5.0
+60	CC_21-23°C/40%_2022	7.0	1	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_7.0
+61	CC_21-23°C/40%_2022	7.0	2	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_7.0
+62	CC_21-23°C/40%_2022	7.0	3	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_7.0
+63	CC_21-23°C/40%_2022	10.0	1	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_10.0
+64	CC_21-23°C/40%_2022	10.0	2	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_10.0
+65	CC_21-23°C/40%_2022	10.0	3	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_10.0
+66	CC_21-23°C/40%_2022	15.0	1	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_1_15.0
+67	CC_21-23°C/40%_2022	15.0	2	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_2_15.0
+68	CC_21-23°C/40%_2022	15.0	3	0	2022	1	0.0	cotton	21.0	40.0	DMEM	surface		0.0	0.25	CC_21-23°C/40%_2022	CC_21-23°C/40%_2022_3_15.0
+69	CC_21°C/45%_2003	0.0	1	2	2003	100	-2.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_0.0
+70	CC_21°C/45%_2003	0.0	2	17	2003	10	-1.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_0.0
+71	CC_21°C/45%_2003	0.0	3	19	2003	10	-1.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_0.0
+72	CC_21°C/45%_2003	1.0	1	1	2003	10	-1.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_1.0
+73	CC_21°C/45%_2003	1.0	2	2	2003	10	-1.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_1.0
+74	CC_21°C/45%_2003	1.0	3	1	2003	10	-1.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_1.0
+75	CC_21°C/45%_2003	3.0	1	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_3.0
+76	CC_21°C/45%_2003	3.0	2	6	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_3.0
+77	CC_21°C/45%_2003	3.0	3	4	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_3.0
+78	CC_21°C/45%_2003	5.0	1	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_5.0
+79	CC_21°C/45%_2003	5.0	2	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_5.0
+80	CC_21°C/45%_2003	5.0	3	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_5.0
+81	CC_21°C/45%_2003	7.0	1	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_7.0
+82	CC_21°C/45%_2003	7.0	2	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_7.0
+83	CC_21°C/45%_2003	7.0	3	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_7.0
+84	CC_21°C/45%_2003	10.0	1	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_10.0
+85	CC_21°C/45%_2003	10.0	2	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_10.0
+86	CC_21°C/45%_2003	10.0	3	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_10.0
+87	CC_21°C/45%_2003	15.0	1	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_1_15.0
+88	CC_21°C/45%_2003	15.0	2	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_2_15.0
+89	CC_21°C/45%_2003	15.0	3	0	2003	1	0.0	cotton	21.0	45.0	DMEM	surface		0.0	0.25	CC_21°C/45%_2003	CC_21°C/45%_2003_3_15.0
+90	CC_28°C/65%_2003	0.0	1	2	2003	100	-2.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_0.0
+91	CC_28°C/65%_2003	0.0	2	5	2003	100	-2.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_0.0
+92	CC_28°C/65%_2003	0.0	3	2	2003	100	-2.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_0.0
+93	CC_28°C/65%_2003	1.0	1	4	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_1.0
+94	CC_28°C/65%_2003	1.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_1.0
+95	CC_28°C/65%_2003	1.0	3	1	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_1.0
+96	CC_28°C/65%_2003	3.0	1	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_3.0
+97	CC_28°C/65%_2003	3.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_3.0
+98	CC_28°C/65%_2003	3.0	3	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_3.0
+99	CC_28°C/65%_2003	5.0	1	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_5.0
+100	CC_28°C/65%_2003	5.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_5.0
+101	CC_28°C/65%_2003	5.0	3	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_5.0
+102	CC_28°C/65%_2003	7.0	1	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_7.0
+103	CC_28°C/65%_2003	7.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_7.0
+104	CC_28°C/65%_2003	7.0	3	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_7.0
+105	CC_28°C/65%_2003	10.0	1	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_10.0
+106	CC_28°C/65%_2003	10.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_10.0
+107	CC_28°C/65%_2003	10.0	3	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_10.0
+108	CC_28°C/65%_2003	15.0	1	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_1_15.0
+109	CC_28°C/65%_2003	15.0	2	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_2_15.0
+110	CC_28°C/65%_2003	15.0	3	0	2003	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2003	CC_28°C/65%_2003_3_15.0
+111	CC_28°C/65%_2022	0.0	1	51	2022	10	-1.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_0.0
+112	CC_28°C/65%_2022	0.0	2	7	2022	1000	-3.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_0.0
+113	CC_28°C/65%_2022	0.0	3	10	2022	100	-2.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_0.0
+114	CC_28°C/65%_2022	1.0	1	9	2022	10	-1.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_1.0
+115	CC_28°C/65%_2022	1.0	2	4	2022	10	-1.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_1.0
+116	CC_28°C/65%_2022	1.0	3	3	2022	10	-1.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_1.0
+117	CC_28°C/65%_2022	3.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_3.0
+118	CC_28°C/65%_2022	3.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_3.0
+119	CC_28°C/65%_2022	3.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_3.0
+120	CC_28°C/65%_2022	5.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_5.0
+121	CC_28°C/65%_2022	5.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_5.0
+122	CC_28°C/65%_2022	5.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_5.0
+123	CC_28°C/65%_2022	7.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_7.0
+124	CC_28°C/65%_2022	7.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_7.0
+125	CC_28°C/65%_2022	7.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_7.0
+126	CC_28°C/65%_2022	10.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_10.0
+127	CC_28°C/65%_2022	10.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_10.0
+128	CC_28°C/65%_2022	10.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_10.0
+129	CC_28°C/65%_2022	15.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_15.0
+130	CC_28°C/65%_2022	15.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_15.0
+131	CC_28°C/65%_2022	15.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_15.0
+132	CC_28°C/65%_2022	20.0	1	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_1_20.0
+133	CC_28°C/65%_2022	20.0	2	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_2_20.0
+134	CC_28°C/65%_2022	20.0	3	0	2022	1	0.0	cotton	28.0	65.0	DMEM	surface		0.0	0.25	CC_28°C/65%_2022	CC_28°C/65%_2022_3_20.0
+135	CC_4°C/40%_2022	0.0	1	12	2022	1000	-3.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_0.0
+136	CC_4°C/40%_2022	0.0	2	7	2022	1000	-3.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_0.0
+137	CC_4°C/40%_2022	0.0	3	9	2022	1000	-3.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_0.0
+138	CC_4°C/40%_2022	1.0	1	10	2022	100	-2.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_1.0
+139	CC_4°C/40%_2022	1.0	2	12	2022	100	-2.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_1.0
+140	CC_4°C/40%_2022	1.0	3	13	2022	100	-2.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_1.0
+141	CC_4°C/40%_2022	3.0	1	23	2022	10	-1.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_3.0
+142	CC_4°C/40%_2022	3.0	2	2	2022	100	-2.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_3.0
+143	CC_4°C/40%_2022	3.0	3	20	2022	10	-1.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_3.0
+144	CC_4°C/40%_2022	5.0	1	13	2022	10	-1.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_5.0
+145	CC_4°C/40%_2022	5.0	2	10	2022	10	-1.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_5.0
+146	CC_4°C/40%_2022	5.0	3	37	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_5.0
+147	CC_4°C/40%_2022	7.0	1	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_7.0
+148	CC_4°C/40%_2022	7.0	2	14	2022	100	-2.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_7.0
+149	CC_4°C/40%_2022	7.0	3	7	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_7.0
+150	CC_4°C/40%_2022	10.0	1	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_10.0
+151	CC_4°C/40%_2022	10.0	2	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_10.0
+152	CC_4°C/40%_2022	10.0	3	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_10.0
+153	CC_4°C/40%_2022	15.0	1	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_15.0
+154	CC_4°C/40%_2022	15.0	2	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_15.0
+155	CC_4°C/40%_2022	15.0	3	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_15.0
+156	CC_4°C/40%_2022	20.0	1	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_1_20.0
+157	CC_4°C/40%_2022	20.0	2	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_2_20.0
+158	CC_4°C/40%_2022	20.0	3	0	2022	1	0.0	cotton	4.0	40.0	DMEM	surface		0.0	0.25	CC_4°C/40%_2022	CC_4°C/40%_2022_3_20.0
+159	CC_4°C/45%_2003	0.0	1	2	2003	100	-2.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_0.0
+160	CC_4°C/45%_2003	0.0	2	2	2003	100	-2.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_0.0
+161	CC_4°C/45%_2003	0.0	3	3	2003	100	-2.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_0.0
+162	CC_4°C/45%_2003	1.0	1	5	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_1.0
+163	CC_4°C/45%_2003	1.0	2	1	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_1.0
+164	CC_4°C/45%_2003	1.0	3	2	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_1.0
+165	CC_4°C/45%_2003	3.0	1	2	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_3.0
+166	CC_4°C/45%_2003	3.0	2	1	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_3.0
+167	CC_4°C/45%_2003	3.0	3	1	2003	10	-1.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_3.0
+168	CC_4°C/45%_2003	5.0	1	4	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_5.0
+169	CC_4°C/45%_2003	5.0	2	5	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_5.0
+170	CC_4°C/45%_2003	5.0	3	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_5.0
+171	CC_4°C/45%_2003	7.0	1	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_7.0
+172	CC_4°C/45%_2003	7.0	2	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_7.0
+173	CC_4°C/45%_2003	7.0	3	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_7.0
+174	CC_4°C/45%_2003	10.0	1	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_10.0
+175	CC_4°C/45%_2003	10.0	2	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_10.0
+176	CC_4°C/45%_2003	10.0	3	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_10.0
+177	CC_4°C/45%_2003	15.0	1	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_1_15.0
+178	CC_4°C/45%_2003	15.0	2	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_2_15.0
+179	CC_4°C/45%_2003	15.0	3	0	2003	1	0.0	cotton	4.0	45.0	DMEM	surface		0.0	0.25	CC_4°C/45%_2003	CC_4°C/45%_2003_3_15.0
+180	Feces_liquid_2022	0.0	1	2	2022	10000	-4.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+181	Feces_liquid_2022	0.0	2	7	2022	10000	-4.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+182	Feces_liquid_2022	0.0	3	6	2022	10000	-4.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+183	Feces_liquid_2022	1.0	1	6	2022	10000	-4.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+184	Feces_liquid_2022	1.0	2	3	2022	10000	-4.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+185	Feces_liquid_2022	1.0	3	3	2022	1000	-3.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+186	Feces_liquid_2022	3.0	1	8	2022	1000	-3.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+187	Feces_liquid_2022	3.0	2	6	2022	1000	-3.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+188	Feces_liquid_2022	3.0	3	7	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+189	Feces_liquid_2022	5.0	1	10	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+190	Feces_liquid_2022	5.0	2	21	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+191	Feces_liquid_2022	5.0	3	21	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+192	Feces_liquid_2022	7.0	1	9	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+193	Feces_liquid_2022	7.0	2	9	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+194	Feces_liquid_2022	7.0	3	10	2022	100	-2.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+195	Feces_liquid_2022	10.0	1	12	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+196	Feces_liquid_2022	10.0	2	15	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+197	Feces_liquid_2022	10.0	3	15	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+198	Feces_liquid_2022	15.0	1	2	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+199	Feces_liquid_2022	15.0	2	2	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+200	Feces_liquid_2022	15.0	3	2	2022	10	-1.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+201	Feces_liquid_2022	20.0	1	0	2022	1	0.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_1
+202	Feces_liquid_2022	20.0	2	0	2022	1	0.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_2
+203	Feces_liquid_2022	20.0	3	0	2022	1	0.0				Feces	liquid		0.0	0.25	Feces_liquid_2022	Feces_liquid_2022_3
+204	Feces_surface_2022	0.0	1	2	2022	10000	-4.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_0.0
+205	Feces_surface_2022	0.0	2	5	2022	10000	-4.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_0.0
+206	Feces_surface_2022	0.0	3	4	2022	1000	-3.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_0.0
+207	Feces_surface_2022	1.0	1	16	2022	1000	-3.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_1.0
+208	Feces_surface_2022	1.0	2	27	2022	1000	-3.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_1.0
+209	Feces_surface_2022	1.0	3	13	2022	1000	-3.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_1.0
+210	Feces_surface_2022	3.0	1	8	2022	100	-2.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_3.0
+211	Feces_surface_2022	3.0	2	32	2022	100	-2.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_3.0
+212	Feces_surface_2022	3.0	3	4	2022	1000	-3.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_3.0
+213	Feces_surface_2022	5.0	1	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_5.0
+214	Feces_surface_2022	5.0	2	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_5.0
+215	Feces_surface_2022	5.0	3	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_5.0
+216	Feces_surface_2022	7.0	1	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_7.0
+217	Feces_surface_2022	7.0	2	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_7.0
+218	Feces_surface_2022	7.0	3	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_7.0
+219	Feces_surface_2022	10.0	1	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_1_10.0
+220	Feces_surface_2022	10.0	2	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_2_10.0
+221	Feces_surface_2022	10.0	3	0	2022	1	0.0	polypropylene_plastic			Feces	surface		0.0	0.25	Feces_surface_2022	Feces_surface_2022_3_10.0
+222	PP_21-23°C/40%_2022	0.0	1	8	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_0.0
+223	PP_21-23°C/40%_2022	0.0	2	15	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_0.0
+224	PP_21-23°C/40%_2022	0.0	3	23	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_0.0
+225	PP_21-23°C/40%_2022	1.0	1	25	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_1.0
+226	PP_21-23°C/40%_2022	1.0	2	19	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_1.0
+227	PP_21-23°C/40%_2022	1.0	3	12	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_1.0
+228	PP_21-23°C/40%_2022	3.0	1	9	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_3.0
+229	PP_21-23°C/40%_2022	3.0	2	12	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_3.0
+230	PP_21-23°C/40%_2022	3.0	3	20	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_3.0
+231	PP_21-23°C/40%_2022	5.0	1	5	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_5.0
+232	PP_21-23°C/40%_2022	5.0	2	7	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_5.0
+233	PP_21-23°C/40%_2022	5.0	3	2	2022	1000	-3.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_5.0
+234	PP_21-23°C/40%_2022	7.0	1	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_7.0
+235	PP_21-23°C/40%_2022	7.0	2	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_7.0
+236	PP_21-23°C/40%_2022	7.0	3	1	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_7.0
+237	PP_21-23°C/40%_2022	10.0	1	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_10.0
+238	PP_21-23°C/40%_2022	10.0	2	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_10.0
+239	PP_21-23°C/40%_2022	10.0	3	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_10.0
+240	PP_21-23°C/40%_2022	15.0	1	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_1_15.0
+241	PP_21-23°C/40%_2022	15.0	2	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_2_15.0
+242	PP_21-23°C/40%_2022	15.0	3	0	2022	1	0.0	polypropylene_plastic	21.0	40.0	DMEM	surface		0.0	0.25	PP_21-23°C/40%_2022	PP_21-23°C/40%_2022_3_15.0
+243	PP_21°C/45%_2003	0.0	1	4	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_0.0
+244	PP_21°C/45%_2003	0.0	2	2	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_0.0
+245	PP_21°C/45%_2003	0.0	3	3	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_0.0
+246	PP_21°C/45%_2003	1.0	1	1	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_1.0
+247	PP_21°C/45%_2003	1.0	2	4	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_1.0
+248	PP_21°C/45%_2003	1.0	3	2	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_1.0
+249	PP_21°C/45%_2003	3.0	1	11	2003	10	-1.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_3.0
+250	PP_21°C/45%_2003	3.0	2	2	2003	100	-2.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_3.0
+251	PP_21°C/45%_2003	3.0	3	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_3.0
+252	PP_21°C/45%_2003	5.0	1	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_5.0
+253	PP_21°C/45%_2003	5.0	2	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_5.0
+254	PP_21°C/45%_2003	5.0	3	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_5.0
+255	PP_21°C/45%_2003	7.0	1	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_7.0
+256	PP_21°C/45%_2003	7.0	2	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_7.0
+257	PP_21°C/45%_2003	7.0	3	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_7.0
+258	PP_21°C/45%_2003	10.0	1	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_10.0
+259	PP_21°C/45%_2003	10.0	2	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_10.0
+260	PP_21°C/45%_2003	10.0	3	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_10.0
+261	PP_21°C/45%_2003	15.0	1	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_1_15.0
+262	PP_21°C/45%_2003	15.0	2	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_2_15.0
+263	PP_21°C/45%_2003	15.0	3	0	2003	1	0.0	polypropylene_plastic	21.0	45.0	DMEM	surface		0.0	0.25	PP_21°C/45%_2003	PP_21°C/45%_2003_3_15.0
+264	PP_28°C/65%_2003	0.0	1	2	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_0.0
+265	PP_28°C/65%_2003	0.0	2	5	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_0.0
+266	PP_28°C/65%_2003	0.0	3	6	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_0.0
+267	PP_28°C/65%_2003	1.0	1	1	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_1.0
+268	PP_28°C/65%_2003	1.0	2	1	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_1.0
+269	PP_28°C/65%_2003	1.0	3	2	2003	100	-2.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_1.0
+270	PP_28°C/65%_2003	3.0	1	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_3.0
+271	PP_28°C/65%_2003	3.0	2	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_3.0
+272	PP_28°C/65%_2003	3.0	3	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_3.0
+273	PP_28°C/65%_2003	5.0	1	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_5.0
+274	PP_28°C/65%_2003	5.0	2	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_5.0
+275	PP_28°C/65%_2003	5.0	3	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_5.0
+276	PP_28°C/65%_2003	7.0	1	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_7.0
+277	PP_28°C/65%_2003	7.0	2	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_7.0
+278	PP_28°C/65%_2003	7.0	3	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_7.0
+279	PP_28°C/65%_2003	10.0	1	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_10.0
+280	PP_28°C/65%_2003	10.0	2	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_10.0
+281	PP_28°C/65%_2003	10.0	3	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_10.0
+282	PP_28°C/65%_2003	15.0	1	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_1_15.0
+283	PP_28°C/65%_2003	15.0	2	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_2_15.0
+284	PP_28°C/65%_2003	15.0	3	0	2003	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2003	PP_28°C/65%_2003_3_15.0
+285	PP_28°C/65%_2022	0.0	1	9	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_0.0
+286	PP_28°C/65%_2022	0.0	2	28	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_0.0
+287	PP_28°C/65%_2022	0.0	3	18	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_0.0
+288	PP_28°C/65%_2022	1.0	1	24	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_1.0
+289	PP_28°C/65%_2022	1.0	2	32	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_1.0
+290	PP_28°C/65%_2022	1.0	3	9	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_1.0
+291	PP_28°C/65%_2022	3.0	1	9	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_3.0
+292	PP_28°C/65%_2022	3.0	2	7	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_3.0
+293	PP_28°C/65%_2022	3.0	3	8	2022	1000	-3.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_3.0
+294	PP_28°C/65%_2022	5.0	1	6	2022	200	-2.3010299956639813	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_5.0
+295	PP_28°C/65%_2022	5.0	2	2	2022	200	-2.3010299956639813	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_5.0
+296	PP_28°C/65%_2022	5.0	3	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_5.0
+297	PP_28°C/65%_2022	7.0	1	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_7.0
+298	PP_28°C/65%_2022	7.0	2	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_7.0
+299	PP_28°C/65%_2022	7.0	3	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_7.0
+300	PP_28°C/65%_2022	10.0	1	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_10.0
+301	PP_28°C/65%_2022	10.0	2	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_10.0
+302	PP_28°C/65%_2022	10.0	3	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_10.0
+303	PP_28°C/65%_2022	15.0	1	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_15.0
+304	PP_28°C/65%_2022	15.0	2	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_15.0
+305	PP_28°C/65%_2022	15.0	3	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_15.0
+306	PP_28°C/65%_2022	20.0	1	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_1_20.0
+307	PP_28°C/65%_2022	20.0	2	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_2_20.0
+308	PP_28°C/65%_2022	20.0	3	0	2022	1	0.0	polypropylene_plastic	28.0	65.0	DMEM	surface		0.0	0.25	PP_28°C/65%_2022	PP_28°C/65%_2022_3_20.0
+309	PP_4°C/40%_2022	0.0	1	15	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_0.0
+310	PP_4°C/40%_2022	0.0	2	15	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_0.0
+311	PP_4°C/40%_2022	0.0	3	18	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_0.0
+312	PP_4°C/40%_2022	1.0	1	18	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_1.0
+313	PP_4°C/40%_2022	1.0	2	20	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_1.0
+314	PP_4°C/40%_2022	1.0	3	17	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_1.0
+315	PP_4°C/40%_2022	3.0	1	26	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_3.0
+316	PP_4°C/40%_2022	3.0	2	23	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_3.0
+317	PP_4°C/40%_2022	3.0	3	4	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_3.0
+318	PP_4°C/40%_2022	5.0	1	6	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_5.0
+319	PP_4°C/40%_2022	5.0	2	11	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_5.0
+320	PP_4°C/40%_2022	5.0	3	3	2022	1000	-3.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_5.0
+321	PP_4°C/40%_2022	7.0	1	13	2022	100	-2.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_7.0
+322	PP_4°C/40%_2022	7.0	2	5	2022	100	-2.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_7.0
+323	PP_4°C/40%_2022	7.0	3	5	2022	100	-2.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_7.0
+324	PP_4°C/40%_2022	10.0	1	7	2022	100	-2.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_10.0
+325	PP_4°C/40%_2022	10.0	2	18	2022	100	-2.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_10.0
+326	PP_4°C/40%_2022	10.0	3	7	2022	1	0.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_10.0
+327	PP_4°C/40%_2022	15.0	1	0	2022	1	0.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_1_15.0
+328	PP_4°C/40%_2022	15.0	2	0	2022	1	0.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_2_15.0
+329	PP_4°C/40%_2022	15.0	3	0	2022	1	0.0	polypropylene_plastic	4.0	40.0	DMEM	surface		0.0	0.25	PP_4°C/40%_2022	PP_4°C/40%_2022_3_15.0
+330	PP_4°C/45%_2003	0.0	1	3	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_0.0
+331	PP_4°C/45%_2003	0.0	2	37	2003	10	-1.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_0.0
+332	PP_4°C/45%_2003	0.0	3	4	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_0.0
+333	PP_4°C/45%_2003	1.0	1	4	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_1.0
+334	PP_4°C/45%_2003	1.0	2	5	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_1.0
+335	PP_4°C/45%_2003	1.0	3	10	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_1.0
+336	PP_4°C/45%_2003	3.0	1	2	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_3.0
+337	PP_4°C/45%_2003	3.0	2	2	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_3.0
+338	PP_4°C/45%_2003	3.0	3	7	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_3.0
+339	PP_4°C/45%_2003	5.0	1	2	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_5.0
+340	PP_4°C/45%_2003	5.0	2	2	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_5.0
+341	PP_4°C/45%_2003	5.0	3	3	2003	100	-2.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_5.0
+342	PP_4°C/45%_2003	7.0	1	1	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_7.0
+343	PP_4°C/45%_2003	7.0	2	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_7.0
+344	PP_4°C/45%_2003	7.0	3	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_7.0
+345	PP_4°C/45%_2003	10.0	1	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_10.0
+346	PP_4°C/45%_2003	10.0	2	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_10.0
+347	PP_4°C/45%_2003	10.0	3	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_10.0
+348	PP_4°C/45%_2003	15.0	1	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_1_15.0
+349	PP_4°C/45%_2003	15.0	2	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_2_15.0
+350	PP_4°C/45%_2003	15.0	3	0	2003	1	0.0	polypropylene_plastic	4.0	45.0	DMEM	surface		0.0	0.25	PP_4°C/45%_2003	PP_4°C/45%_2003_3_15.0
+351	SS_21-23°C/40%_2022	0.0	1	36	2022	100	-2.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_0.0
+352	SS_21-23°C/40%_2022	0.0	2	18	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_0.0
+353	SS_21-23°C/40%_2022	0.0	3	33	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_0.0
+354	SS_21-23°C/40%_2022	1.0	1	26	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_1.0
+355	SS_21-23°C/40%_2022	1.0	2	11	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_1.0
+356	SS_21-23°C/40%_2022	1.0	3	24	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_1.0
+357	SS_21-23°C/40%_2022	3.0	1	17	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_3.0
+358	SS_21-23°C/40%_2022	3.0	2	10	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_3.0
+359	SS_21-23°C/40%_2022	3.0	3	10	2022	1000	-3.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_3.0
+360	SS_21-23°C/40%_2022	5.0	1	47	2022	10	-1.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_5.0
+361	SS_21-23°C/40%_2022	5.0	2	42	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_5.0
+362	SS_21-23°C/40%_2022	5.0	3	22	2022	10	-1.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_5.0
+363	SS_21-23°C/40%_2022	7.0	1	8	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_7.0
+364	SS_21-23°C/40%_2022	7.0	2	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_7.0
+365	SS_21-23°C/40%_2022	7.0	3	1	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_7.0
+366	SS_21-23°C/40%_2022	10.0	1	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_10.0
+367	SS_21-23°C/40%_2022	10.0	2	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_10.0
+368	SS_21-23°C/40%_2022	10.0	3	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_10.0
+369	SS_21-23°C/40%_2022	15.0	1	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_1_15.0
+370	SS_21-23°C/40%_2022	15.0	2	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_2_15.0
+371	SS_21-23°C/40%_2022	15.0	3	0	2022	1	0.0	stainless_steel	21.0	40.0	DMEM	surface		0.0	0.25	SS_21-23°C/40%_2022	SS_21-23°C/40%_2022_3_15.0
+372	SS_21°C/45%_2003	0.0	1	9	2003	10	-1.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_0.0
+373	SS_21°C/45%_2003	0.0	2	4	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_0.0
+374	SS_21°C/45%_2003	0.0	3	2	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_0.0
+375	SS_21°C/45%_2003	1.0	1	4	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_1.0
+376	SS_21°C/45%_2003	1.0	2	5	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_1.0
+377	SS_21°C/45%_2003	1.0	3	3	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_1.0
+378	SS_21°C/45%_2003	3.0	1	4	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_3.0
+379	SS_21°C/45%_2003	3.0	2	2	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_3.0
+380	SS_21°C/45%_2003	3.0	3	2	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_3.0
+381	SS_21°C/45%_2003	5.0	1	4	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_5.0
+382	SS_21°C/45%_2003	5.0	2	2	2003	100	-2.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_5.0
+383	SS_21°C/45%_2003	5.0	3	1	2003	10	-1.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_5.0
+384	SS_21°C/45%_2003	7.0	1	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_7.0
+385	SS_21°C/45%_2003	7.0	2	2	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_7.0
+386	SS_21°C/45%_2003	7.0	3	8	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_7.0
+387	SS_21°C/45%_2003	10.0	1	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_10.0
+388	SS_21°C/45%_2003	10.0	2	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_10.0
+389	SS_21°C/45%_2003	10.0	3	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_10.0
+390	SS_21°C/45%_2003	15.0	1	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_1_15.0
+391	SS_21°C/45%_2003	15.0	2	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_2_15.0
+392	SS_21°C/45%_2003	15.0	3	0	2003	1	0.0	stainless_steel	21.0	45.0	DMEM	surface		0.0	0.25	SS_21°C/45%_2003	SS_21°C/45%_2003_3_15.0
+393	SS_28°C/65%_2003	0.0	1	5	2003	100	-2.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_0.0
+394	SS_28°C/65%_2003	0.0	2	1	2003	100	-2.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_0.0
+395	SS_28°C/65%_2003	0.0	3	6	2003	100	-2.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_0.0
+396	SS_28°C/65%_2003	1.0	1	1	2003	10	-1.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_1.0
+397	SS_28°C/65%_2003	1.0	2	1	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_1.0
+398	SS_28°C/65%_2003	1.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_1.0
+399	SS_28°C/65%_2003	3.0	1	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_3.0
+400	SS_28°C/65%_2003	3.0	2	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_3.0
+401	SS_28°C/65%_2003	3.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_3.0
+402	SS_28°C/65%_2003	5.0	1	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_5.0
+403	SS_28°C/65%_2003	5.0	2	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_5.0
+404	SS_28°C/65%_2003	5.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_5.0
+405	SS_28°C/65%_2003	7.0	1	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_7.0
+406	SS_28°C/65%_2003	7.0	2	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_7.0
+407	SS_28°C/65%_2003	7.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_7.0
+408	SS_28°C/65%_2003	10.0	1	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_10.0
+409	SS_28°C/65%_2003	10.0	2	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_10.0
+410	SS_28°C/65%_2003	10.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_10.0
+411	SS_28°C/65%_2003	15.0	1	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_1_15.0
+412	SS_28°C/65%_2003	15.0	2	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_2_15.0
+413	SS_28°C/65%_2003	15.0	3	0	2003	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2003	SS_28°C/65%_2003_3_15.0
+414	SS_28°C/65%_2022	0.0	1	26	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_0.0
+415	SS_28°C/65%_2022	0.0	2	29	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_0.0
+416	SS_28°C/65%_2022	0.0	3	61	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_0.0
+417	SS_28°C/65%_2022	1.0	1	9	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_1.0
+418	SS_28°C/65%_2022	1.0	2	16	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_1.0
+419	SS_28°C/65%_2022	1.0	3	7	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_1.0
+420	SS_28°C/65%_2022	3.0	1	10	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_3.0
+421	SS_28°C/65%_2022	3.0	2	4	2022	1000	-3.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_3.0
+422	SS_28°C/65%_2022	3.0	3	11	2022	100	-2.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_3.0
+423	SS_28°C/65%_2022	5.0	1	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_5.0
+424	SS_28°C/65%_2022	5.0	2	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_5.0
+425	SS_28°C/65%_2022	5.0	3	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_5.0
+426	SS_28°C/65%_2022	7.0	1	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_7.0
+427	SS_28°C/65%_2022	7.0	2	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_7.0
+428	SS_28°C/65%_2022	7.0	3	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_7.0
+429	SS_28°C/65%_2022	10.0	1	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_1_10.0
+430	SS_28°C/65%_2022	10.0	2	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_2_10.0
+431	SS_28°C/65%_2022	10.0	3	0	2022	1	0.0	stainless_steel	28.0	65.0	DMEM	surface		0.0	0.25	SS_28°C/65%_2022	SS_28°C/65%_2022_3_10.0
+432	SS_4°C/40%_2022	0.0	1	18	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_0.0
+433	SS_4°C/40%_2022	0.0	2	17	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_0.0
+434	SS_4°C/40%_2022	0.0	3	21	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_0.0
+435	SS_4°C/40%_2022	1.0	1	24	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_1.0
+436	SS_4°C/40%_2022	1.0	2	22	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_1.0
+437	SS_4°C/40%_2022	1.0	3	21	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_1.0
+438	SS_4°C/40%_2022	3.0	1	24	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_3.0
+439	SS_4°C/40%_2022	3.0	2	19	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_3.0
+440	SS_4°C/40%_2022	3.0	3	20	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_3.0
+441	SS_4°C/40%_2022	5.0	1	16	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_5.0
+442	SS_4°C/40%_2022	5.0	2	18	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_5.0
+443	SS_4°C/40%_2022	5.0	3	27	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_5.0
+444	SS_4°C/40%_2022	7.0	1	17	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_7.0
+445	SS_4°C/40%_2022	7.0	2	5	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_7.0
+446	SS_4°C/40%_2022	7.0	3	12	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_7.0
+447	SS_4°C/40%_2022	10.0	1	12	2022	10	-1.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_10.0
+448	SS_4°C/40%_2022	10.0	2	38	2022	100	-2.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_10.0
+449	SS_4°C/40%_2022	10.0	3	7	2022	1000	-3.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_10.0
+450	SS_4°C/40%_2022	15.0	1	0	2022	1	0.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_1_15.0
+451	SS_4°C/40%_2022	15.0	2	0	2022	1	0.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_2_15.0
+452	SS_4°C/40%_2022	15.0	3	0	2022	1	0.0	stainless_steel	4.0	40.0	DMEM	surface		0.0	0.25	SS_4°C/40%_2022	SS_4°C/40%_2022_3_15.0
+453	SS_4°C/45%_2003	0.0	1	6	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_0.0
+454	SS_4°C/45%_2003	0.0	2	7	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_0.0
+455	SS_4°C/45%_2003	0.0	3	8	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_0.0
+456	SS_4°C/45%_2003	1.0	1	3	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_1.0
+457	SS_4°C/45%_2003	1.0	2	8	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_1.0
+458	SS_4°C/45%_2003	1.0	3	3	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_1.0
+459	SS_4°C/45%_2003	3.0	1	4	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_3.0
+460	SS_4°C/45%_2003	3.0	2	2	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_3.0
+461	SS_4°C/45%_2003	3.0	3	2	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_3.0
+462	SS_4°C/45%_2003	5.0	1	2	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_5.0
+463	SS_4°C/45%_2003	5.0	2	1	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_5.0
+464	SS_4°C/45%_2003	5.0	3	4	2003	100	-2.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_5.0
+465	SS_4°C/45%_2003	7.0	1	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_7.0
+466	SS_4°C/45%_2003	7.0	2	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_7.0
+467	SS_4°C/45%_2003	7.0	3	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_7.0
+468	SS_4°C/45%_2003	10.0	1	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_10.0
+469	SS_4°C/45%_2003	10.0	2	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_10.0
+470	SS_4°C/45%_2003	10.0	3	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_10.0
+471	SS_4°C/45%_2003	15.0	1	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_1_15.0
+472	SS_4°C/45%_2003	15.0	2	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_2_15.0
+473	SS_4°C/45%_2003	15.0	3	0	2003	1	0.0	stainless_steel	4.0	45.0	DMEM	surface		0.0	0.25	SS_4°C/45%_2003	SS_4°C/45%_2003_3_15.0
+474	Saliva_liquid_2022	0.0	1	35	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+475	Saliva_liquid_2022	0.0	2	28	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+476	Saliva_liquid_2022	0.0	3	16	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+477	Saliva_liquid_2022	1.0	1	19	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+478	Saliva_liquid_2022	1.0	2	19	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+479	Saliva_liquid_2022	1.0	3	8	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+480	Saliva_liquid_2022	3.0	1	28	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+481	Saliva_liquid_2022	3.0	2	21	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+482	Saliva_liquid_2022	3.0	3	11	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+483	Saliva_liquid_2022	5.0	1	80	2022	100	-2.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+484	Saliva_liquid_2022	5.0	2	7	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+485	Saliva_liquid_2022	5.0	3	6	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+486	Saliva_liquid_2022	7.0	1	11	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+487	Saliva_liquid_2022	7.0	2	15	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+488	Saliva_liquid_2022	7.0	3	18	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+489	Saliva_liquid_2022	10.0	1	15	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+490	Saliva_liquid_2022	10.0	2	18	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+491	Saliva_liquid_2022	10.0	3	15	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+492	Saliva_liquid_2022	15.0	1	3	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+493	Saliva_liquid_2022	15.0	2	17	2022	100	-2.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+494	Saliva_liquid_2022	15.0	3	3	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+495	Saliva_liquid_2022	20.0	1	6	2022	1000	-3.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_1
+496	Saliva_liquid_2022	20.0	2	25	2022	100	-2.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_2
+497	Saliva_liquid_2022	20.0	3	14	2022	100	-2.0				Saliva	liquid		0.0	0.25	Saliva_liquid_2022	Saliva_liquid_2022_3
+498	Saliva_surface_2022	0.0	1	22	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_0.0
+499	Saliva_surface_2022	0.0	2	3	2022	10000	-4.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_0.0
+500	Saliva_surface_2022	0.0	3	14	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_0.0
+501	Saliva_surface_2022	1.0	1	25	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_1.0
+502	Saliva_surface_2022	1.0	2	30	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_1.0
+503	Saliva_surface_2022	1.0	3	24	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_1.0
+504	Saliva_surface_2022	3.0	1	10	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_3.0
+505	Saliva_surface_2022	3.0	2	28	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_3.0
+506	Saliva_surface_2022	3.0	3	20	2022	1000	-3.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_3.0
+507	Saliva_surface_2022	5.0	1	4	2022	10	-1.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_5.0
+508	Saliva_surface_2022	5.0	2	5	2022	10	-1.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_5.0
+509	Saliva_surface_2022	5.0	3	6	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_5.0
+510	Saliva_surface_2022	7.0	1	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_7.0
+511	Saliva_surface_2022	7.0	2	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_7.0
+512	Saliva_surface_2022	7.0	3	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_7.0
+513	Saliva_surface_2022	10.0	1	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_1_10.0
+514	Saliva_surface_2022	10.0	2	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_2_10.0
+515	Saliva_surface_2022	10.0	3	0	2022	1	0.0	polypropylene_plastic			Saliva	surface		0.0	0.25	Saliva_surface_2022	Saliva_surface_2022_3_10.0
+516	Semen_liquid_2022	0.0	2	3	2022	10000	-4.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+517	Semen_liquid_2022	0.0	3	6	2022	10000	-4.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+518	Semen_liquid_2022	1.0	1	13	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+519	Semen_liquid_2022	1.0	2	19	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+520	Semen_liquid_2022	1.0	3	9	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+521	Semen_liquid_2022	3.0	1	17	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+522	Semen_liquid_2022	3.0	2	17	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+523	Semen_liquid_2022	3.0	3	17	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+524	Semen_liquid_2022	5.0	1	17	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+525	Semen_liquid_2022	5.0	2	9	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+526	Semen_liquid_2022	5.0	3	13	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+527	Semen_liquid_2022	7.0	1	6	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+528	Semen_liquid_2022	7.0	2	5	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+529	Semen_liquid_2022	7.0	3	2	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+530	Semen_liquid_2022	10.0	1	5	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+531	Semen_liquid_2022	10.0	2	5	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+532	Semen_liquid_2022	10.0	3	5	2022	1000	-3.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+533	Semen_liquid_2022	15.0	1	19	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+534	Semen_liquid_2022	15.0	2	27	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+535	Semen_liquid_2022	15.0	3	21	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+536	Semen_liquid_2022	20.0	1	5	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_1
+537	Semen_liquid_2022	20.0	2	14	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_2
+538	Semen_liquid_2022	20.0	3	16	2022	100	-2.0				Semen	liquid		0.0	0.25	Semen_liquid_2022	Semen_liquid_2022_3
+539	Semen_surface_2022	0.0	1	6	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_0.0
+540	Semen_surface_2022	0.0	2	3	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_0.0
+541	Semen_surface_2022	0.0	3	2	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_0.0
+542	Semen_surface_2022	1.0	1	16	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_1.0
+543	Semen_surface_2022	1.0	2	3	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_1.0
+544	Semen_surface_2022	1.0	3	4	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_1.0
+545	Semen_surface_2022	3.0	1	2	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_3.0
+546	Semen_surface_2022	3.0	2	3	2022	10000	-4.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_3.0
+547	Semen_surface_2022	3.0	3	20	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_3.0
+548	Semen_surface_2022	5.0	1	19	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_5.0
+549	Semen_surface_2022	5.0	2	8	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_5.0
+550	Semen_surface_2022	5.0	3	5	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_5.0
+551	Semen_surface_2022	7.0	1	19	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_7.0
+552	Semen_surface_2022	7.0	2	20	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_7.0
+553	Semen_surface_2022	7.0	3	13	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_7.0
+554	Semen_surface_2022	10.0	1	7	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_10.0
+555	Semen_surface_2022	10.0	2	14	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_10.0
+556	Semen_surface_2022	10.0	3	16	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_10.0
+557	Semen_surface_2022	15.0	1	6	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_15.0
+558	Semen_surface_2022	15.0	2	3	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_15.0
+559	Semen_surface_2022	15.0	3	5	2022	1000	-3.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_15.0
+560	Semen_surface_2022	20.0	1	18	2022	100	-2.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_1_20.0
+561	Semen_surface_2022	20.0	2	9	2022	100	-2.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_2_20.0
+562	Semen_surface_2022	20.0	3	37	2022	100	-2.0	polypropylene_plastic			Semen	surface		0.0	0.25	Semen_surface_2022	Semen_surface_2022_3_20.0
+563	Serum_0%_liquid_2022	0.0	1	9	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+564	Serum_0%_liquid_2022	0.0	2	4	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+565	Serum_0%_liquid_2022	0.0	3	3	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+566	Serum_0%_liquid_2022	1.0	1	3	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+567	Serum_0%_liquid_2022	1.0	2	9	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+568	Serum_0%_liquid_2022	1.0	3	4	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+569	Serum_0%_liquid_2022	3.0	1	8	2022	100	-2.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+570	Serum_0%_liquid_2022	3.0	2	10	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+571	Serum_0%_liquid_2022	3.0	3	14	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+572	Serum_0%_liquid_2022	5.0	1	12	2022	100	-2.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+573	Serum_0%_liquid_2022	5.0	2	11	2022	1000	-3.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+574	Serum_0%_liquid_2022	5.0	3	12	2022	100	-2.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+575	Serum_0%_liquid_2022	7.0	1	3	2022	10	-1.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+576	Serum_0%_liquid_2022	7.0	2	16	2022	10	-1.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+577	Serum_0%_liquid_2022	7.0	3	1	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+578	Serum_0%_liquid_2022	10.0	1	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+579	Serum_0%_liquid_2022	10.0	2	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+580	Serum_0%_liquid_2022	10.0	3	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+581	Serum_0%_liquid_2022	15.0	1	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+582	Serum_0%_liquid_2022	15.0	2	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+583	Serum_0%_liquid_2022	15.0	3	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+584	Serum_0%_liquid_2022	20.0	1	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_1
+585	Serum_0%_liquid_2022	20.0	2	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_2
+586	Serum_0%_liquid_2022	20.0	3	0	2022	1	0.0				Serum	liquid	0.0	0.0	0.25	Serum_0%_liquid_2022	Serum_0%_liquid_2022_3
+587	Serum_100%_liquid_2022	0.0	1	14	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+588	Serum_100%_liquid_2022	0.0	2	13	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+589	Serum_100%_liquid_2022	0.0	3	5	2022	10000	-4.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+590	Serum_100%_liquid_2022	1.0	1	13	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+591	Serum_100%_liquid_2022	1.0	2	1	2022	10000	-4.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+592	Serum_100%_liquid_2022	1.0	3	4	2022	10000	-4.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+593	Serum_100%_liquid_2022	3.0	1	1	2022	10000	-4.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+594	Serum_100%_liquid_2022	3.0	2	2	2022	10000	-4.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+595	Serum_100%_liquid_2022	3.0	3	11	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+596	Serum_100%_liquid_2022	5.0	1	9	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+597	Serum_100%_liquid_2022	5.0	2	4	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+598	Serum_100%_liquid_2022	5.0	3	6	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+599	Serum_100%_liquid_2022	7.0	1	5	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+600	Serum_100%_liquid_2022	7.0	2	4	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+601	Serum_100%_liquid_2022	7.0	3	4	2022	1000	-3.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+602	Serum_100%_liquid_2022	10.0	1	3	2022	100	-2.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+603	Serum_100%_liquid_2022	10.0	2	1	2022	100	-2.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+604	Serum_100%_liquid_2022	10.0	3	3	2022	100	-2.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+605	Serum_100%_liquid_2022	15.0	1	7	2022	100	-2.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+606	Serum_100%_liquid_2022	15.0	2	7	2022	10	-1.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+607	Serum_100%_liquid_2022	15.0	3	10	2022	10	-1.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+608	Serum_100%_liquid_2022	20.0	1	13	2022	1	0.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_1
+609	Serum_100%_liquid_2022	20.0	2	2	2022	10	-1.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_2
+610	Serum_100%_liquid_2022	20.0	3	4	2022	10	-1.0				Serum	liquid	100.0	0.0	0.25	Serum_100%_liquid_2022	Serum_100%_liquid_2022_3
+611	Serum_40%_liquid_2022	0.0	1	8	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+612	Serum_40%_liquid_2022	0.0	2	5	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+613	Serum_40%_liquid_2022	0.0	3	5	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+614	Serum_40%_liquid_2022	1.0	1	3	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+615	Serum_40%_liquid_2022	1.0	2	1	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+616	Serum_40%_liquid_2022	1.0	3	2	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+617	Serum_40%_liquid_2022	3.0	1	1	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+618	Serum_40%_liquid_2022	3.0	2	3	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+619	Serum_40%_liquid_2022	3.0	3	2	2022	1000	-3.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+620	Serum_40%_liquid_2022	5.0	1	6	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+621	Serum_40%_liquid_2022	5.0	2	13	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+622	Serum_40%_liquid_2022	5.0	3	35	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+623	Serum_40%_liquid_2022	7.0	1	10	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+624	Serum_40%_liquid_2022	7.0	2	13	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+625	Serum_40%_liquid_2022	7.0	3	29	2022	10	-1.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+626	Serum_40%_liquid_2022	10.0	1	7	2022	10	-1.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+627	Serum_40%_liquid_2022	10.0	2	20	2022	10	-1.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+628	Serum_40%_liquid_2022	10.0	3	4	2022	100	-2.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+629	Serum_40%_liquid_2022	15.0	1	4	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+630	Serum_40%_liquid_2022	15.0	2	17	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+631	Serum_40%_liquid_2022	15.0	3	3	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+632	Serum_40%_liquid_2022	20.0	1	0	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_1
+633	Serum_40%_liquid_2022	20.0	2	0	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_2
+634	Serum_40%_liquid_2022	20.0	3	0	2022	1	0.0				Serum	liquid	40.0	0.0	0.25	Serum_40%_liquid_2022	Serum_40%_liquid_2022_3
+635	Serum_80%_liquid_2022	0.0	1	12	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+636	Serum_80%_liquid_2022	0.0	2	17	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+637	Serum_80%_liquid_2022	0.0	3	3	2022	10000	-4.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+638	Serum_80%_liquid_2022	1.0	1	11	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+639	Serum_80%_liquid_2022	1.0	2	32	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+640	Serum_80%_liquid_2022	1.0	3	11	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+641	Serum_80%_liquid_2022	3.0	1	4	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+642	Serum_80%_liquid_2022	3.0	2	5	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+643	Serum_80%_liquid_2022	3.0	3	10	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+644	Serum_80%_liquid_2022	5.0	1	3	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+645	Serum_80%_liquid_2022	5.0	2	6	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+646	Serum_80%_liquid_2022	5.0	3	7	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+647	Serum_80%_liquid_2022	7.0	1	3	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+648	Serum_80%_liquid_2022	7.0	2	2	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+649	Serum_80%_liquid_2022	7.0	3	1	2022	1000	-3.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+650	Serum_80%_liquid_2022	10.0	1	5	2022	100	-2.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+651	Serum_80%_liquid_2022	10.0	2	25	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+652	Serum_80%_liquid_2022	10.0	3	30	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+653	Serum_80%_liquid_2022	15.0	1	4	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+654	Serum_80%_liquid_2022	15.0	2	20	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+655	Serum_80%_liquid_2022	15.0	3	2	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+656	Serum_80%_liquid_2022	20.0	1	1	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_1
+657	Serum_80%_liquid_2022	20.0	2	4	2022	10	-1.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_2
+658	Serum_80%_liquid_2022	20.0	3	1	2022	1	0.0				Serum	liquid	80.0	0.0	0.25	Serum_80%_liquid_2022	Serum_80%_liquid_2022_3
+659	Serum_surface_2022	0.0	1	12	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_0.0
+660	Serum_surface_2022	0.0	2	15	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_0.0
+661	Serum_surface_2022	0.0	3	17	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_0.0
+662	Serum_surface_2022	1.0	1	17	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_1.0
+663	Serum_surface_2022	1.0	2	18	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_1.0
+664	Serum_surface_2022	1.0	3	7	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_1.0
+665	Serum_surface_2022	3.0	1	5	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_3.0
+666	Serum_surface_2022	3.0	2	1	2022	100	-2.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_3.0
+667	Serum_surface_2022	3.0	3	4	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_3.0
+668	Serum_surface_2022	5.0	1	3	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_5.0
+669	Serum_surface_2022	5.0	2	29	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_5.0
+670	Serum_surface_2022	5.0	3	1	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_5.0
+671	Serum_surface_2022	7.0	1	4	2022	10	-1.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_7.0
+672	Serum_surface_2022	7.0	2	18	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_7.0
+673	Serum_surface_2022	7.0	3	6	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_7.0
+674	Serum_surface_2022	10.0	1	2	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_10.0
+675	Serum_surface_2022	10.0	2	3	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_10.0
+676	Serum_surface_2022	10.0	3	4	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_10.0
+677	Serum_surface_2022	15.0	1	0	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_15.0
+678	Serum_surface_2022	15.0	2	1	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_15.0
+679	Serum_surface_2022	15.0	3	4	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_15.0
+680	Serum_surface_2022	20.0	1	0	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_1_20.0
+681	Serum_surface_2022	20.0	2	0	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_2_20.0
+682	Serum_surface_2022	20.0	3	0	2022	1	0.0	polypropylene_plastic			Serum	surface		0.0	0.25	Serum_surface_2022	Serum_surface_2022_3_20.0
+683	Urine_liquid_2022	0.0	1	4	2022	10000	-4.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+684	Urine_liquid_2022	0.0	2	2	2022	10000	-4.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+685	Urine_liquid_2022	0.0	3	25	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+686	Urine_liquid_2022	1.0	1	13	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+687	Urine_liquid_2022	1.0	2	3	2022	10000	-4.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+688	Urine_liquid_2022	1.0	3	20	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+689	Urine_liquid_2022	3.0	1	19	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+690	Urine_liquid_2022	3.0	2	8	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+691	Urine_liquid_2022	3.0	3	12	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+692	Urine_liquid_2022	5.0	1	10	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+693	Urine_liquid_2022	5.0	2	5	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+694	Urine_liquid_2022	5.0	3	9	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+695	Urine_liquid_2022	7.0	1	7	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+696	Urine_liquid_2022	7.0	2	5	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+697	Urine_liquid_2022	7.0	3	5	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+698	Urine_liquid_2022	10.0	1	28	2022	100	-2.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+699	Urine_liquid_2022	10.0	2	11	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+700	Urine_liquid_2022	10.0	3	3	2022	1000	-3.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+701	Urine_liquid_2022	15.0	1	3	2022	10	-1.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+702	Urine_liquid_2022	15.0	2	16	2022	100	-2.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+703	Urine_liquid_2022	15.0	3	8	2022	100	-2.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+704	Urine_liquid_2022	20.0	1	0	2022	1	0.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_1
+705	Urine_liquid_2022	20.0	2	13	2022	1	0.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_2
+706	Urine_liquid_2022	20.0	3	0	2022	1	0.0				Urine	liquid		0.0	0.25	Urine_liquid_2022	Urine_liquid_2022_3
+707	Urine_surface_2022	0.0	1	2	2022	10000	-4.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_0.0
+708	Urine_surface_2022	0.0	2	50	2022	10000	-4.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_0.0
+709	Urine_surface_2022	0.0	3	13	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_0.0
+710	Urine_surface_2022	1.0	1	6	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_1.0
+711	Urine_surface_2022	1.0	2	50	2022	10000	-4.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_1.0
+712	Urine_surface_2022	1.0	3	21	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_1.0
+713	Urine_surface_2022	3.0	1	8	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_3.0
+714	Urine_surface_2022	3.0	2	17	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_3.0
+715	Urine_surface_2022	3.0	3	31	2022	1000	-3.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_3.0
+716	Urine_surface_2022	5.0	1	3	2022	10	-1.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_5.0
+717	Urine_surface_2022	5.0	2	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_5.0
+718	Urine_surface_2022	5.0	3	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_5.0
+719	Urine_surface_2022	7.0	1	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_7.0
+720	Urine_surface_2022	7.0	2	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_7.0
+721	Urine_surface_2022	7.0	3	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_7.0
+722	Urine_surface_2022	10.0	1	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_1_10.0
+723	Urine_surface_2022	10.0	2	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_2_10.0
+724	Urine_surface_2022	10.0	3	0	2022	1	0.0	polypropylene_plastic			Urine	surface		0.0	0.25	Urine_surface_2022	Urine_surface_2022_3_10.0
+725	di_water_1.0_2022	0.0	1	28	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+726	di_water_1.0_2022	0.0	2	27	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+727	di_water_1.0_2022	0.0	3	21	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+728	di_water_1.0_2022	0.0002291666666666667	1	23	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+729	di_water_1.0_2022	0.0002291666666666667	2	13	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+730	di_water_1.0_2022	0.0002291666666666667	3	16	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+731	di_water_1.0_2022	0.0006944444444444445	1	24	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+732	di_water_1.0_2022	0.0006944444444444445	2	27	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+733	di_water_1.0_2022	0.0006944444444444445	3	28	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+734	di_water_1.0_2022	0.003472222222222222	1	15	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+735	di_water_1.0_2022	0.003472222222222222	2	12	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+736	di_water_1.0_2022	0.003472222222222222	3	21	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+737	di_water_1.0_2022	0.010416666666666666	1	120	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+738	di_water_1.0_2022	0.010416666666666666	2	24	2022	1000	-3.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+739	di_water_1.0_2022	0.010416666666666666	3	108	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+740	di_water_1.0_2022	0.020833333333333332	1	69	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+741	di_water_1.0_2022	0.020833333333333332	2	49	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+742	di_water_1.0_2022	0.020833333333333332	3	73	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+743	di_water_1.0_2022	0.041666666666666664	1	25	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+744	di_water_1.0_2022	0.041666666666666664	2	35	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+745	di_water_1.0_2022	0.041666666666666664	3	40	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+746	di_water_1.0_2022	0.08333333333333333	1	32	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_1
+747	di_water_1.0_2022	0.08333333333333333	2	17	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_2
+748	di_water_1.0_2022	0.08333333333333333	3	23	2022	100	-2.0				di_water	liquid		1.0	1.0	di_water_1.0_2022	di_water_1.0_2022_3
+749	di_water_10.0_2022	0.0	1	22	2022	1000	-3.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+750	di_water_10.0_2022	0.0	2	29	2022	1000	-3.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+751	di_water_10.0_2022	0.0	3	19	2022	1000	-3.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+752	di_water_10.0_2022	0.0002291666666666667	1	14	2022	100	-2.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+753	di_water_10.0_2022	0.0002291666666666667	2	14	2022	10	-1.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+754	di_water_10.0_2022	0.0002291666666666667	3	5	2022	10	-1.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+755	di_water_10.0_2022	0.0006944444444444445	1	44	2022	10	-1.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+756	di_water_10.0_2022	0.0006944444444444445	2	8	2022	10	-1.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+757	di_water_10.0_2022	0.0006944444444444445	3	4	2022	10	-1.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+758	di_water_10.0_2022	0.003472222222222222	1	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+759	di_water_10.0_2022	0.003472222222222222	2	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+760	di_water_10.0_2022	0.003472222222222222	3	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+761	di_water_10.0_2022	0.010416666666666666	1	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+762	di_water_10.0_2022	0.010416666666666666	2	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+763	di_water_10.0_2022	0.010416666666666666	3	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+764	di_water_10.0_2022	0.020833333333333332	1	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+765	di_water_10.0_2022	0.020833333333333332	2	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+766	di_water_10.0_2022	0.020833333333333332	3	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+767	di_water_10.0_2022	0.041666666666666664	1	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+768	di_water_10.0_2022	0.041666666666666664	2	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+769	di_water_10.0_2022	0.041666666666666664	3	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+770	di_water_10.0_2022	0.08333333333333333	1	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_1
+771	di_water_10.0_2022	0.08333333333333333	2	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_2
+772	di_water_10.0_2022	0.08333333333333333	3	0	2022	1	0.0				di_water	liquid		10.0	1.0	di_water_10.0_2022	di_water_10.0_2022_3
+773	di_water_5.0_2022	0.0	1	27	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+774	di_water_5.0_2022	0.0	2	29	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+775	di_water_5.0_2022	0.0	3	21	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+776	di_water_5.0_2022	0.0002291666666666667	1	45	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+777	di_water_5.0_2022	0.0002291666666666667	2	19	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+778	di_water_5.0_2022	0.0002291666666666667	3	16	2022	1000	-3.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+779	di_water_5.0_2022	0.0006944444444444445	1	36	2022	100	-2.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+780	di_water_5.0_2022	0.0006944444444444445	2	36	2022	100	-2.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+781	di_water_5.0_2022	0.0006944444444444445	3	62	2022	100	-2.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+782	di_water_5.0_2022	0.003472222222222222	1	10	2022	10	-1.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+783	di_water_5.0_2022	0.003472222222222222	2	20	2022	10	-1.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+784	di_water_5.0_2022	0.003472222222222222	3	5	2022	10	-1.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+785	di_water_5.0_2022	0.010416666666666666	1	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+786	di_water_5.0_2022	0.010416666666666666	2	33	2022	10	-1.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+787	di_water_5.0_2022	0.010416666666666666	3	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+788	di_water_5.0_2022	0.020833333333333332	1	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+789	di_water_5.0_2022	0.020833333333333332	2	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+790	di_water_5.0_2022	0.020833333333333332	3	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+791	di_water_5.0_2022	0.041666666666666664	1	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+792	di_water_5.0_2022	0.041666666666666664	2	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+793	di_water_5.0_2022	0.041666666666666664	3	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+794	di_water_5.0_2022	0.08333333333333333	1	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_1
+795	di_water_5.0_2022	0.08333333333333333	2	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_2
+796	di_water_5.0_2022	0.08333333333333333	3	0	2022	1	0.0				di_water	liquid		5.0	1.0	di_water_5.0_2022	di_water_5.0_2022_3
+797	di_water_control_2022	0.0	1	5	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+798	di_water_control_2022	0.0	2	11	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+799	di_water_control_2022	0.0	3	11	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+800	di_water_control_2022	0.0	1	24	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+801	di_water_control_2022	0.0	2	28	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+802	di_water_control_2022	0.0	3	27	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+803	di_water_control_2022	0.0002291666666666667	1	30	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+804	di_water_control_2022	0.0002291666666666667	2	17	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+805	di_water_control_2022	0.0002291666666666667	3	34	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+806	di_water_control_2022	0.0006944444444444445	1	57	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+807	di_water_control_2022	0.0006944444444444445	2	17	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+808	di_water_control_2022	0.0006944444444444445	3	25	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+809	di_water_control_2022	0.003472222222222222	1	25	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+810	di_water_control_2022	0.003472222222222222	2	18	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+811	di_water_control_2022	0.003472222222222222	3	18	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+812	di_water_control_2022	0.010416666666666666	1	21	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+813	di_water_control_2022	0.010416666666666666	2	49	2022	10000	-4.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+814	di_water_control_2022	0.010416666666666666	3	17	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+815	di_water_control_2022	0.020833333333333332	1	21	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+816	di_water_control_2022	0.020833333333333332	2	20	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+817	di_water_control_2022	0.020833333333333332	3	21	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+818	di_water_control_2022	0.041666666666666664	1	90	2022	100	-2.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+819	di_water_control_2022	0.041666666666666664	2	59	2022	100	-2.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+820	di_water_control_2022	0.041666666666666664	3	94	2022	100	-2.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+821	di_water_control_2022	0.08333333333333333	1	14	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_1
+822	di_water_control_2022	0.08333333333333333	2	13	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_2
+823	di_water_control_2022	0.08333333333333333	3	16	2022	1000	-3.0				di_water	liquid		0.0	1.0	di_water_control_2022_short_experiment	di_water_control_2022_short_experiment_3
+824	di_water_control_2022	1.0	1	14	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+825	di_water_control_2022	1.0	2	12	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+826	di_water_control_2022	1.0	3	13	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+827	di_water_control_2022	3.0	1	12	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+828	di_water_control_2022	3.0	2	13	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+829	di_water_control_2022	3.0	3	12	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+830	di_water_control_2022	5.0	1	6	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+831	di_water_control_2022	5.0	2	7	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+832	di_water_control_2022	5.0	3	14	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+833	di_water_control_2022	7.0	1	12	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+834	di_water_control_2022	7.0	2	13	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+835	di_water_control_2022	7.0	3	9	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+836	di_water_control_2022	10.0	1	14	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+837	di_water_control_2022	10.0	2	7	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+838	di_water_control_2022	10.0	3	9	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+839	di_water_control_2022	15.0	1	8	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+840	di_water_control_2022	15.0	2	10	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+841	di_water_control_2022	15.0	3	13	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+842	di_water_control_2022	20.0	1	8	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_1
+843	di_water_control_2022	20.0	2	11	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_2
+844	di_water_control_2022	20.0	3	6	2022	10	-1.0				di_water	liquid		0.0	0.25	di_water_control_2022_long_experiment	di_water_control_2022_long_experiment_3
+845	wastewater_1.0_2022	0.0	1	15	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+846	wastewater_1.0_2022	0.0	2	20	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+847	wastewater_1.0_2022	0.0	3	22	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+848	wastewater_1.0_2022	0.0002291666666666667	1	9	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+849	wastewater_1.0_2022	0.0002291666666666667	2	21	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+850	wastewater_1.0_2022	0.0002291666666666667	3	14	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+851	wastewater_1.0_2022	0.0006944444444444445	1	18	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+852	wastewater_1.0_2022	0.0006944444444444445	2	16	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+853	wastewater_1.0_2022	0.0006944444444444445	3	20	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+854	wastewater_1.0_2022	0.003472222222222222	1	10	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+855	wastewater_1.0_2022	0.003472222222222222	2	12	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+856	wastewater_1.0_2022	0.003472222222222222	3	20	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+857	wastewater_1.0_2022	0.010416666666666666	1	92	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+858	wastewater_1.0_2022	0.010416666666666666	2	93	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+859	wastewater_1.0_2022	0.010416666666666666	3	13	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+860	wastewater_1.0_2022	0.020833333333333332	1	9	2022	1000	-3.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+861	wastewater_1.0_2022	0.020833333333333332	2	70	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+862	wastewater_1.0_2022	0.020833333333333332	3	69	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+863	wastewater_1.0_2022	0.041666666666666664	1	32	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+864	wastewater_1.0_2022	0.041666666666666664	2	41	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+865	wastewater_1.0_2022	0.041666666666666664	3	38	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+866	wastewater_1.0_2022	0.08333333333333333	1	27	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_1
+867	wastewater_1.0_2022	0.08333333333333333	2	23	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_2
+868	wastewater_1.0_2022	0.08333333333333333	3	32	2022	100	-2.0				wastewater	liquid		1.0	1.0	wastewater_1.0_2022	wastewater_1.0_2022_3
+869	wastewater_10.0_2022	0.0	1	26	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+870	wastewater_10.0_2022	0.0	2	16	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+871	wastewater_10.0_2022	0.0	3	17	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+872	wastewater_10.0_2022	0.0002291666666666667	1	18	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+873	wastewater_10.0_2022	0.0002291666666666667	2	13	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+874	wastewater_10.0_2022	0.0002291666666666667	3	14	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+875	wastewater_10.0_2022	0.0006944444444444445	1	14	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+876	wastewater_10.0_2022	0.0006944444444444445	2	18	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+877	wastewater_10.0_2022	0.0006944444444444445	3	84	2022	100	-2.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+878	wastewater_10.0_2022	0.003472222222222222	1	14	2022	100	-2.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+879	wastewater_10.0_2022	0.003472222222222222	2	111	2022	10	-1.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+880	wastewater_10.0_2022	0.003472222222222222	3	7	2022	100	-2.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+881	wastewater_10.0_2022	0.010416666666666666	1	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+882	wastewater_10.0_2022	0.010416666666666666	2	1	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+883	wastewater_10.0_2022	0.010416666666666666	3	1	2022	1000	-3.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+884	wastewater_10.0_2022	0.020833333333333332	1	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+885	wastewater_10.0_2022	0.020833333333333332	2	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+886	wastewater_10.0_2022	0.020833333333333332	3	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+887	wastewater_10.0_2022	0.041666666666666664	1	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+888	wastewater_10.0_2022	0.041666666666666664	2	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+889	wastewater_10.0_2022	0.041666666666666664	3	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+890	wastewater_10.0_2022	0.08333333333333333	1	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_1
+891	wastewater_10.0_2022	0.08333333333333333	2	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_2
+892	wastewater_10.0_2022	0.08333333333333333	3	0	2022	1	0.0				wastewater	liquid		10.0	1.0	wastewater_10.0_2022	wastewater_10.0_2022_3
+893	wastewater_5.0_2022	0.0	1	19	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+894	wastewater_5.0_2022	0.0	2	17	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+895	wastewater_5.0_2022	0.0	3	22	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+896	wastewater_5.0_2022	0.0002291666666666667	1	19	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+897	wastewater_5.0_2022	0.0002291666666666667	2	15	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+898	wastewater_5.0_2022	0.0002291666666666667	3	19	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+899	wastewater_5.0_2022	0.0006944444444444445	1	12	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+900	wastewater_5.0_2022	0.0006944444444444445	2	15	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+901	wastewater_5.0_2022	0.0006944444444444445	3	7	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+902	wastewater_5.0_2022	0.003472222222222222	1	100	2022	100	-2.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+903	wastewater_5.0_2022	0.003472222222222222	2	46	2022	100	-2.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+904	wastewater_5.0_2022	0.003472222222222222	3	45	2022	100	-2.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+905	wastewater_5.0_2022	0.010416666666666666	1	5	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+906	wastewater_5.0_2022	0.010416666666666666	2	33	2022	100	-2.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+907	wastewater_5.0_2022	0.010416666666666666	3	1	2022	1000	-3.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+908	wastewater_5.0_2022	0.020833333333333332	2	12	2022	10	-1.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+909	wastewater_5.0_2022	0.020833333333333332	3	2	2022	10	-1.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+910	wastewater_5.0_2022	0.041666666666666664	1	3	2022	100	-2.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+911	wastewater_5.0_2022	0.041666666666666664	2	1	2022	10	-1.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+912	wastewater_5.0_2022	0.041666666666666664	3	0	2022	1	0.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+913	wastewater_5.0_2022	0.08333333333333333	1	6	2022	10	-1.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_1
+914	wastewater_5.0_2022	0.08333333333333333	2	0	2022	1	0.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_2
+915	wastewater_5.0_2022	0.08333333333333333	3	0	2022	1	0.0				wastewater	liquid		5.0	1.0	wastewater_5.0_2022	wastewater_5.0_2022_3
+916	wastewater_control_2022	0.0	1	6	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+917	wastewater_control_2022	0.0	2	11	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+918	wastewater_control_2022	0.0	3	9	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+919	wastewater_control_2022	0.0	1	19	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+920	wastewater_control_2022	0.0	2	19	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+921	wastewater_control_2022	0.0	3	14	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+922	wastewater_control_2022	0.0002291666666666667	1	127	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+923	wastewater_control_2022	0.0002291666666666667	2	22	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+924	wastewater_control_2022	0.0002291666666666667	3	13	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+925	wastewater_control_2022	0.0006944444444444445	1	24	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+926	wastewater_control_2022	0.0006944444444444445	2	18	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+927	wastewater_control_2022	0.0006944444444444445	3	21	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+928	wastewater_control_2022	0.003472222222222222	1	17	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+929	wastewater_control_2022	0.003472222222222222	2	26	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+930	wastewater_control_2022	0.003472222222222222	3	14	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+931	wastewater_control_2022	0.010416666666666666	1	13	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+932	wastewater_control_2022	0.010416666666666666	2	6	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+933	wastewater_control_2022	0.010416666666666666	3	15	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+934	wastewater_control_2022	0.020833333333333332	1	15	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+935	wastewater_control_2022	0.020833333333333332	2	14	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+936	wastewater_control_2022	0.020833333333333332	3	11	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+937	wastewater_control_2022	0.041666666666666664	1	10	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+938	wastewater_control_2022	0.041666666666666664	2	11	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+939	wastewater_control_2022	0.041666666666666664	3	10	2022	1000	-3.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+940	wastewater_control_2022	0.08333333333333333	1	70	2022	100	-2.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_1
+941	wastewater_control_2022	0.08333333333333333	2	60	2022	100	-2.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_2
+942	wastewater_control_2022	0.08333333333333333	3	56	2022	100	-2.0				wastewater	liquid		0.0	1.0	wastewater_control_2022_short_experiment	wastewater_control_2022_short_experiment_3
+943	wastewater_control_2022	1.0	1	12	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+944	wastewater_control_2022	1.0	2	10	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+945	wastewater_control_2022	1.0	3	7	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+946	wastewater_control_2022	3.0	1	12	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+947	wastewater_control_2022	3.0	2	14	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+948	wastewater_control_2022	3.0	3	11	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+949	wastewater_control_2022	5.0	1	10	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+950	wastewater_control_2022	5.0	2	12	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+951	wastewater_control_2022	5.0	3	13	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+952	wastewater_control_2022	7.0	1	10	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+953	wastewater_control_2022	7.0	2	6	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+954	wastewater_control_2022	7.0	3	5	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+955	wastewater_control_2022	10.0	1	5	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+956	wastewater_control_2022	10.0	2	4	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+957	wastewater_control_2022	10.0	3	7	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+958	wastewater_control_2022	15.0	1	5	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+959	wastewater_control_2022	15.0	2	4	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+960	wastewater_control_2022	15.0	3	4	2022	10	-1.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
+961	wastewater_control_2022	20.0	1	7	2022	1	0.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_1
+962	wastewater_control_2022	20.0	2	9	2022	1	0.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_2
+963	wastewater_control_2022	20.0	3	6	2022	1	0.0				wastewater	liquid		0.0	0.25	wastewater_control_2022_long_experiment	wastewater_control_2022_long_experiment_3
